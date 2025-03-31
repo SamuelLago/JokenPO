@@ -56,4 +56,4 @@ Separação de arquivos para melhor manutenção e escalabilidade
 
 ## 📸 Video
 
-https://github.com/user-attachments/assets/ebee5f91-216b-4483-a679-8df5d043952f
+https://github.com/user-attachments/assets/ef43f08b-f7cb-4d21-b784-b285637b22d8
