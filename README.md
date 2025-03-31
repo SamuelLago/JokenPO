@@ -25,3 +25,31 @@ Dart
 
 Material Design 3
 
+## ▶️ Como Executar
+Clone o repositório:
+
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+cd nome-do-repositorio
+
+Certifique-se de que o Flutter está instalado. Para verificar:
+
+flutter doctor
+
+Instale as dependências:
+
+flutter pub get
+
+Rode o projeto:
+
+flutter run
+
+## 🧠 Conceitos Abordados
+Estrutura básica de um app Flutter
+
+Uso de widgets como MaterialApp, Scaffold, AppBar, Column, Row, Padding
+
+Manipulação de imagens locais
+
+Organização de layouts com children e alinhamentos (crossAxisAlignment, mainAxisAlignment)
+
+Separação de arquivos para melhor manutenção e escalabilidade
