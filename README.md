@@ -53,3 +53,7 @@ Manipulação de imagens locais
 Organização de layouts com children e alinhamentos (crossAxisAlignment, mainAxisAlignment)
 
 Separação de arquivos para melhor manutenção e escalabilidade
+
+## 📸 Video
+
+https://github.com/user-attachments/assets/ebee5f91-216b-4483-a679-8df5d043952f
